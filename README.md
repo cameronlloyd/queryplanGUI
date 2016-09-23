@@ -1,6 +1,7 @@
 #queryplanGUI
 ## How to install:
 * pip install django
+
 ## How to run:
 * Navigate to directory with manage.py
 * python manage.py runserver
